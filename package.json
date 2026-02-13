@@ -1,0 +1,25 @@
+{
+  "name": "imersao_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giuliahenrique/imersao_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giuliahenrique/imersao_node/issues"
+  },
+  "homepage": "https://github.com/giuliahenrique/imersao_node#readme",
+  "dependencies": {
+    "fastify": "^4.29.1",
+    "pg": "^8.18.0"
+  }
+}
