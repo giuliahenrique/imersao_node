@@ -1,2 +1,13 @@
 ###
- Get HTTP/1.1 https://localhost:3000/usuarios 
+
+GET HTTP/1.1 https://localhost:3000/usuarios 
+
+###
+
+POST http://localhost:3000/usuarios
+Content-Type: application/json
+
+{
+    "nome": "Marcos",
+    "idade": 26 
+}
