@@ -1,6 +1,6 @@
 ###
 
-GET HTTP/1.1 https://localhost:3000/usuarios 
+GET https://localhost:3000/usuarios 
 
 ###
 
